@@ -1,5 +1,12 @@
-
-
+<pre>
+  _   _   _   _   _   _   _   _   _   _  
+ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ 
+( D | i | s | c | o | r | d | M | u | s )
+ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ 
+  _   _   _   _  
+ / \ / \ / \ / \ 
+( i | c | B | o )
+ \_/ \_/ \_/ \_/ 
 </pre>
 
 # 🎶 Discord Music Bot
@@ -205,8 +212,25 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 <pre>
+A wild ninja cow appears! (Animation Frames)
+
+Frame 1:
               ^__^
               (oo)\_______
+             (__)\       )\/\
+                 ||----w |
+                 ||     ||
+
+Frame 2:
+              ^__^
+              (oo)\_______
+             (__)\       )\/ 
+                 ||----w | \
+                 ||     ||  *
+
+Frame 3:
+              ^__^
+              (o-)\_______
              (__)\       )\/\
                  ||----w |
                  ||     ||
