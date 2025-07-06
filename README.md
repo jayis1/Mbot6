@@ -153,6 +153,7 @@ The default command prefix is `?`.
 -   **`YOUTUBE_API_KEY`**: Your YouTube Data API v3 key. This is required for the `?search` command. You can obtain one from the [Google Cloud Console](https://console.cloud.google.com/apis/library/youtube.googleapis.com).
 -   **`BOT_OWNER_ID`**: Your personal Discord User ID. This is used for owner-only commands. To get your ID, enable Developer Mode in Discord's settings, then right-click your username and select "Copy User ID".
 -   **`LOG_CHANNEL_ID`**: The ID of the Discord channel where the bot will send logs. Get this by enabling Developer Mode, right-clicking the channel, and selecting "Copy Channel ID".
+    -   **⚠️ Warning:** The bot can be very verbose with its logging. It is highly recommended to create a separate, dedicated channel for logs to avoid spamming a general chat channel.
 
 ---
 
