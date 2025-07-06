@@ -54,15 +54,21 @@ While it may work on other Linux distributions, you might need to manually insta
     cd <repository-directory>
     ```
 
-2.  **Configure the Bot**
+2.  **Make the Launch Script Executable**
+    You may need to grant execute permissions to the launch script.
+    ```bash
+    chmod +x launch.sh
+    ```
+
+3.  **Configure the Bot**
     Create a `.env` file by copying the example file.
     ```bash
     cp .env.example .env
     ```
     Now, edit the `.env` file with your credentials. See the **Configuration Details** section below for more information.
 
-3.  **Run the Setup Script**
-    This command prepares the environment, installs all Python packages, and makes the scripts executable.
+4.  **Run the Setup Script**
+    This command prepares the environment, installs all Python packages, and makes the other scripts executable.
     ```bash
     ./launch.sh setup
     ```
