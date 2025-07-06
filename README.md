@@ -1,15 +1,9 @@
-<pre>
-  _   _   _   _   _   _   _   _   _   _  
- / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ 
-( D | i | s | c | o | r | d | M | u | s )
- \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ 
-  _   _   _   _  
- / \ / \ / \ / \ 
-( i | c | B | o )
- \_/ \_/ \_/ \_/ 
+<div align="center">
 </pre>
+</details>
+</div>
 
-# 🎶 Discord Music Bot
+# 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python" alt="Python Version">
@@ -117,7 +111,8 @@ The `launch.sh` script is your control center for the bot.
 
 The default command prefix is `?`.
 
-### Music Commands
+<details>
+  <summary>Click to view Music Commands</summary>
 
 | Command                          | Description                                      |
 | -------------------------------- | ------------------------------------------------ |
@@ -138,14 +133,17 @@ The default command prefix is `?`.
 | `?loop`                          | Toggles looping for the current song.            |
 | `?speedhigher` / `?speedlower`   | Increases or decreases the playback speed.       |
 | `?shuffle`                       | Shuffles the song queue.                         |
+</details>
 
-### Admin Commands (Bot Owner Only)
+<details>
+  <summary>Click to view Admin Commands (Bot Owner Only)</summary>
 
 | Command                             | Description                                      |
 | ----------------------------------- | ------------------------------------------------ |
 | `?fetch_and_set_cookies <URL>`      | Fetches and sets cookies for `yt-dlp`.           |
 | `?shutdown`                         | Shuts down the bot.                              |
-| `?restart`                          | Restarts the bot.                                |
+| `?restart`                         | Restarts the bot.                                |
+</details>
 
 ---
 
@@ -159,6 +157,9 @@ The default command prefix is `?`.
 ---
 
 ## 📁 Project Structure
+
+<details>
+  <summary>Click to view the project structure</summary>
 
 ```
 .
@@ -175,6 +176,7 @@ The default command prefix is `?`.
 ├── requirements.txt    # Python dependencies
 └── README.md           # This file
 ```
+</details>
 
 ---
 
@@ -211,28 +213,15 @@ Contributions are welcome! If you have a feature request, bug report, or want to
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
+<div align="center">
+<details>
+  <summary>A wild ninja cow appears!</summary>
 <pre>
-A wild ninja cow appears! (Animation Frames)
-
-Frame 1:
               ^__^
               (oo)\_______
-             (__)\       )\/\
-                 ||----w |
-                 ||     ||
-
-Frame 2:
-              ^__^
-              (oo)\_______
-             (__)\       )\/ 
-                 ||----w | \
-                 ||     ||  *
-
-Frame 3:
-              ^__^
-              (o-)\_______
              (__)\       )\/\
                  ||----w |
                  ||     ||
 </pre>
-
+</details>
+</div>
