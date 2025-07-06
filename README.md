@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">
 </p>
 
-A self-contained Discord music bot built with Python and `discord.py`. It's designed for easy setup and robust performance, running as a background service using `screen`. The included `launch.sh` script handles the complete setup, including dependency installation and environment configuration.
+A self-contained Discord music bot built with Python and `discord.py`. It's designed for easy setup and robust performance, running as a background service using `screen`. The included `launch.sh` script handles the complete setup, including dependency installation, environment configuration, and automatic generation of necessary files like `__init__.py`.
 
 ---
 
