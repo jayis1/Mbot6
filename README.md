@@ -23,6 +23,21 @@ A self-contained Discord music bot built with Python and `discord.py`. It's desi
 
 ---
 
+## 🎯 Target Environment
+
+This bot is primarily developed and tested on **Debian 12 (Bookworm)**. The `launch.sh` script includes commands to install dependencies like `ffmpeg` using `apt-get`, which is specific to Debian-based distributions.
+
+It is suitable for deployment in various environments:
+-   **Bare Metal**: A dedicated physical machine running Debian 12.
+-   **Type 1 Hypervisor**:
+    -   **Proxmox VE**: Can be run inside a Virtual Machine (VM) or a Linux Container (LXC).
+-   **Type 2 Hypervisor**:
+    -   **VirtualBox**, **VMware Workstation/Fusion**: Can be run inside a Debian 12 guest VM.
+
+While it may work on other Linux distributions, you might need to manually install the required system dependencies (`ffmpeg`, `libopus-dev`) using your distribution's package manager.
+
+---
+
 ## 🚀 Getting Started
 
 ### Prerequisites
