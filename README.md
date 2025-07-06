@@ -61,11 +61,25 @@ While it may work on other Linux distributions, you might need to manually insta
     ```
 
 3.  **Configure the Bot**
-    Create a `.env` file by copying the example file.
+    You can configure the bot in one of two ways:
+
+    **Method 1: Using a `.env` file (Recommended)**
+    Create a `.env` file by copying the example file:
     ```bash
     cp .env.example .env
     ```
-    Now, edit the `.env` file with your credentials. See the **Configuration Details** section below for more information.
+    Now, edit the `.env` file with your credentials using a text editor like `nano`:
+    ```bash
+    nano .env
+    ```
+    See the **Configuration Details** section below for more information on what to put in this file.
+
+    **Method 2: Hardcoding in `config.py`**
+    If you prefer, you can hardcode your credentials directly into the `config.py` file.
+    ```bash
+    nano config.py
+    ```
+    **Note:** This is not recommended, especially if your code is in a public repository.
 
 4.  **Run the Setup Script**
     This command prepares the environment, installs all Python packages, and makes the other scripts executable.
