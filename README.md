@@ -1,3 +1,14 @@
+<pre>
+  _   _   _   _   _   _   _   _   _   _  
+ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ 
+( D | i | s | c | o | r | d | M | u | s )
+ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ 
+  _   _   _   _  
+ / \ / \ / \ / \ 
+( i | c | B | o )
+ \_/ \_/ \_/ \_/ 
+</pre>
+
 # 🎶 Discord Music Bot
 
 <p align="center">
@@ -198,3 +209,13 @@ Contributions are welcome! If you have a feature request, bug report, or want to
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+<pre>
+              ^__^
+              (oo)\_______
+             (__)\       )\/\
+                 ||----w |
+                 ||     ||
+</pre>
+
